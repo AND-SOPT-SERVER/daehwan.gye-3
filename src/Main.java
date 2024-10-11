@@ -4,6 +4,9 @@ public class Main {
     public static void main(String[] args) {
         // test3 기능 구현
         System.out.println("test3");
+
+        // Test 5 기능 구현
+        System.out.println("test5");
     }
 }
 
