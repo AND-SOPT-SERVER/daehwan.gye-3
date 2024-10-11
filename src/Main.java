@@ -2,8 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        // test4 기능 구현
-        System.out.println("test4");
+        // test3 기능 구현
+        System.out.println("test3");
     }
 }
 
